@@ -23,4 +23,8 @@
             "url": "https://repo.packagist.com/scrifysystems/"
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 99c02e4 (fix: removed embedded git repo from src)
