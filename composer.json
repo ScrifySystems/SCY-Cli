@@ -1,5 +1,5 @@
 {
-    "name": "scrify",
+    "name": "qfee/cli",
     "type": "library",
     "license": "MIT",
     "autoload": {
