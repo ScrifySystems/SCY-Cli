@@ -1,0 +1,25 @@
+{
+    "name": "scy/cli",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Scy\\": "src/"
+        }
+    },
+    
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0"
+    },
+    "bin": [
+      "bin/line-counter"  
+    ],
+    "repositories": {
+        "packagist.org": false,
+        "private-packagist": {
+            "type": "composer",
+            "url": "https://repo.packagist.com/scrifysystems/"
+        }
+    }
+}
