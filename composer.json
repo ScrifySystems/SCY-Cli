@@ -1,5 +1,5 @@
 {
-    "name": "scy/cli",
+    "name": "scrify",
     "type": "library",
     "license": "MIT",
     "autoload": {
