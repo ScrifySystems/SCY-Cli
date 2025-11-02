@@ -7,9 +7,6 @@
             "Scy\\": "src/"
         }
     },
-    
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "require": {
         "php": "^8.0"
     },
@@ -22,5 +19,7 @@
             "type": "composer",
             "url": "https://repo.packagist.com/scrifysystems/"
         }
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
